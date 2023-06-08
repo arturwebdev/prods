@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c4a0e90c.css",
+    "main.js": "/static/js/main.54a63bcc.js",
+    "static/media/Mask group.png": "/static/media/Mask group.298e7da8062906c10a75.png",
+    "static/media/png": "/static/media/004acf0eb7832453d59458f0dbfc0411.3584169c9ff4d4895ae7.png",
+    "static/media/ 1.png": "/static/media/d545cde665efc1a90a0758d51cb341de 1.04a04619d7e08521f055.png",
+    "static/media/ (1).png": "/static/media/004acf0eb7832453d59458f0dbfc0411 (1).83a3eb4defdd8efd681a.png",
+    "static/media/Inter-Bold.woff2": "/static/media/Inter-Bold.df454d31cb00344b1ff1.woff2",
+    "static/media/Inter-ExtraBold.woff2": "/static/media/Inter-ExtraBold.218afe6ea4cd7ba61ef9.woff2",
+    "static/media/Inter-SemiBold.woff2": "/static/media/Inter-SemiBold.7249951440b8b2f3f6ba.woff2",
+    "static/media/Inter-Medium.woff2": "/static/media/Inter-Medium.d4b5441320ecab87d64a.woff2",
+    "static/media/Inter-ExtraLight.woff2": "/static/media/Inter-ExtraLight.2fa884f3d7326c4b3f6b.woff2",
+    "static/media/Inter-Light.woff2": "/static/media/Inter-Light.afa727d8db7992117c0f.woff2",
+    "static/media/Inter-Black.woff2": "/static/media/Inter-Black.d9b60b2ca718d9700f6e.woff2",
+    "static/media/Inter-Thin.woff2": "/static/media/Inter-Thin.1bd9d6681529f12fe6e1.woff2",
+    "static/media/Inter-Regular.woff2": "/static/media/Inter-Regular.ac03a6de9ea313009257.woff2",
+    "static/media/spacejoy-XpbtQfr9Skg-unsplash 1.png": "/static/media/spacejoy-XpbtQfr9Skg-unsplash 1.77ce576941e1ea6fa50c.png",
+    "static/media/IM_FELL_French_Canon_Italic.woff2": "/static/media/IM_FELL_French_Canon_Italic.5361c746750e96561f53.woff2",
+    "static/media/logo.png": "/static/media/logo.88e6187ff35fce2b56bb.png",
+    "static/media/IM_FELL_French_Canon_Roman.woff2": "/static/media/IM_FELL_French_Canon_Roman.8f302c03fae3e6dc773c.woff2",
+    "static/media/placeholder.jpg": "/static/media/placeholder.7418b46820f80ad7719f.jpg",
+    "index.html": "/index.html",
+    "static/media/Rectangle 50.svg": "/static/media/Rectangle 50.66e2fafe9fedb5cd4f60.svg",
+    "main.c4a0e90c.css.map": "/static/css/main.c4a0e90c.css.map",
+    "main.54a63bcc.js.map": "/static/js/main.54a63bcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4a0e90c.css",
+    "static/js/main.54a63bcc.js"
+  ]
+}
