@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918/static/css/main.04e61d15.css",
-    "main.js": "/8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918/static/js/main.bdaafe24.js",
+    "main.js": "/8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918/static/js/main.d567ae08.js",
     "index.html": "/8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918/index.html",
     "main.04e61d15.css.map": "/8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918/static/css/main.04e61d15.css.map",
-    "main.bdaafe24.js.map": "/8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918/static/js/main.bdaafe24.js.map"
+    "main.d567ae08.js.map": "/8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918/static/js/main.d567ae08.js.map"
   },
   "entrypoints": [
     "static/css/main.04e61d15.css",
-    "static/js/main.bdaafe24.js"
+    "static/js/main.d567ae08.js"
   ]
 }
